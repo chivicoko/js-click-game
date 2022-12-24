@@ -1,0 +1,23 @@
+body {
+    font-family: cursive;
+}
+
+section {
+    text-align: center;
+    border: 1px solid red;
+    margin: 0 150px;
+    height: 100vh;
+}
+
+section #timeTaken {
+    font-weight: bolder;
+}
+
+
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
